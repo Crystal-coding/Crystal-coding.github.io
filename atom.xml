@@ -3,11 +3,11 @@
   <title>北方小草的博客</title>
   
   
-  <link href="https://crystal-coding.github.io/project/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://crystal-coding.github.io/project/"/>
+  <link href="http://example.com/"/>
   <updated>2021-09-30T08:38:45.810Z</updated>
-  <id>https://crystal-coding.github.io/project/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>北方小草</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://crystal-coding.github.io/project/2021/09/30/hello-world/"/>
-    <id>https://crystal-coding.github.io/project/2021/09/30/hello-world/</id>
+    <link href="http://example.com/2021/09/30/hello-world/"/>
+    <id>http://example.com/2021/09/30/hello-world/</id>
     <published>2021-09-30T08:38:45.810Z</published>
     <updated>2021-09-30T08:38:45.810Z</updated>
     
