@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://crystal-coding.github.io/project/tags/index.html</loc>
     
     <lastmod>2021-09-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/homepage/index.html</loc>
+    <loc>https://crystal-coding.github.io/project/homepage/index.html</loc>
     
     <lastmod>2021-09-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://crystal-coding.github.io/project/link/index.html</loc>
     
     <lastmod>2021-09-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://crystal-coding.github.io/project/categories/index.html</loc>
     
     <lastmod>2021-09-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/09/30/hello-world/</loc>
+    <loc>https://crystal-coding.github.io/project/2021/09/30/hello-world/</loc>
     
     <lastmod>2021-09-30</lastmod>
     
@@ -38,7 +38,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://crystal-coding.github.io/project</loc>
     <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
