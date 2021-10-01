@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-01T09:33:25.307Z</updated>
+  <updated>2021-10-01T09:46:48.949Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,14 @@
     <link href="http://example.com/2021/10/01/mypage1/"/>
     <id>http://example.com/2021/10/01/mypage1/</id>
     <published>2021-10-01T09:10:25.000Z</published>
-    <updated>2021-10-01T09:33:25.307Z</updated>
+    <updated>2021-10-01T09:46:48.949Z</updated>
     
-    <content type="html"><![CDATA[<h1>这是我的第一篇文章</h1><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    cout&lt;&lt;<span class="string">&quot;hello wrold!&quot;</span>&lt;&lt;endl;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    cout&lt;&lt;<span class="string">&quot;hello wrold!&quot;</span>&lt;&lt;endl;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="Second"><a href="#Second" class="headerlink" title="Second"></a>Second</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1&gt;这是我的第一篇文章&lt;/h1&gt;
-
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-</summary>
+    <summary type="html">&lt;h2 id=&quot;这是我的第一篇文章&quot;&gt;&lt;a href=&quot;#这是我的第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;这是我的第一篇文章&quot;&gt;&lt;/a&gt;这是我的第一篇文章&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a</summary>
       
     
     
@@ -41,6 +39,14 @@
     <category term="HTML" scheme="http://example.com/tags/HTML/"/>
     
     <category term="CSS" scheme="http://example.com/tags/CSS/"/>
+    
+    <category term="JavaScript" scheme="http://example.com/tags/JavaScript/"/>
+    
+    <category term="electron" scheme="http://example.com/tags/electron/"/>
+    
+    <category term="Android" scheme="http://example.com/tags/Android/"/>
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
