@@ -3,11 +3,11 @@
   <title>北方小草的博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://lxt220.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://lxt220.com/"/>
   <updated>2021-10-01T09:46:48.949Z</updated>
-  <id>http://example.com/</id>
+  <id>http://lxt220.com/</id>
   
   <author>
     <name>北方小草</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>CSS常见标签</title>
-    <link href="http://example.com/2021/10/01/mypage1/"/>
-    <id>http://example.com/2021/10/01/mypage1/</id>
+    <link href="http://lxt220.com/2021/10/01/mypage1/"/>
+    <id>http://lxt220.com/2021/10/01/mypage1/</id>
     <published>2021-10-01T09:10:25.000Z</published>
     <updated>2021-10-01T09:46:48.949Z</updated>
     
@@ -33,27 +33,27 @@
     
     
     
-    <category term="web前端" scheme="http://example.com/categories/web%E5%89%8D%E7%AB%AF/"/>
+    <category term="web前端" scheme="http://lxt220.com/categories/web%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="HTML" scheme="http://example.com/tags/HTML/"/>
+    <category term="HTML" scheme="http://lxt220.com/tags/HTML/"/>
     
-    <category term="CSS" scheme="http://example.com/tags/CSS/"/>
+    <category term="CSS" scheme="http://lxt220.com/tags/CSS/"/>
     
-    <category term="JavaScript" scheme="http://example.com/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="http://lxt220.com/tags/JavaScript/"/>
     
-    <category term="electron" scheme="http://example.com/tags/electron/"/>
+    <category term="electron" scheme="http://lxt220.com/tags/electron/"/>
     
-    <category term="Android" scheme="http://example.com/tags/Android/"/>
+    <category term="Android" scheme="http://lxt220.com/tags/Android/"/>
     
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="http://lxt220.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/09/30/hello-world/"/>
-    <id>http://example.com/2021/09/30/hello-world/</id>
+    <link href="http://lxt220.com/2021/09/30/hello-world/"/>
+    <id>http://lxt220.com/2021/09/30/hello-world/</id>
     <published>2021-09-30T08:38:45.810Z</published>
     <updated>2021-09-30T08:38:45.810Z</updated>
     

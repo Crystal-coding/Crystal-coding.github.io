@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/10/01/mypage1/</loc>
+    <loc>http://lxt220.com/2021/10/01/mypage1/</loc>
     
     <lastmod>2021-10-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://lxt220.com/tags/index.html</loc>
     
     <lastmod>2021-10-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>http://lxt220.com/link/index.html</loc>
     
     <lastmod>2021-09-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://lxt220.com/categories/index.html</loc>
     
     <lastmod>2021-09-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/09/30/hello-world/</loc>
+    <loc>http://lxt220.com/2021/09/30/hello-world/</loc>
     
     <lastmod>2021-09-30</lastmod>
     
@@ -38,7 +38,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://lxt220.com/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -46,42 +46,42 @@
 
   
   <url>
-    <loc>http://example.com/tags/HTML/</loc>
+    <loc>http://lxt220.com/tags/HTML/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/CSS/</loc>
+    <loc>http://lxt220.com/tags/CSS/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/JavaScript/</loc>
+    <loc>http://lxt220.com/tags/JavaScript/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/electron/</loc>
+    <loc>http://lxt220.com/tags/electron/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Android/</loc>
+    <loc>http://lxt220.com/tags/Android/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://lxt220.com/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -90,7 +90,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/web%E5%89%8D%E7%AB%AF/</loc>
+    <loc>http://lxt220.com/categories/web%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2021-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
