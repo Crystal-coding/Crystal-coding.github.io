@@ -1,14 +1,14 @@
 extends includes/layout.pug
 
 block content
-  if theme.tag_ui == 'index'
+  if theme.category_ui == 'index'
     include ./includes/mixins/post-ui.pug
-    #recent-posts.recent-posts
+    #recent-posts.recent-posts.category_ui   
       +postUI
-      include includes/pagination.pug
+      include includes/pagination.pug    
   else
     include ./includes/mixins/article-sort.pug
-    #tag
-      .article-sort-title= _p('page.tag') + ' - ' + page.tag
+    #category
+      .article-sort-title= _p('page.category') + ' - ' + page.category
       +articleSort(page.posts)
       include includes/pagination.pug
